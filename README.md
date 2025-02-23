@@ -1,6 +1,6 @@
 # **🕹️ Tic-Tac-Toe Game (Java Swing)**
 
-A simple Tic-Tac-Toe game built using Java Swing with a clean, modular design following separation of concerns.
+This is a simple Tic-Tac-Toe game built using Java Swing with a clean, modular design. It provides a graphical user interface (GUI) where two players can take turns marking "X" and "O" on a 3x3 grid.
 
 ### **🚀 Features**
 
