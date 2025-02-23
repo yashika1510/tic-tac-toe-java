@@ -30,14 +30,24 @@ This is a simple Tic-Tac-Toe game built using Java Swing with a clean, modular d
 
 #### Steps to Run
 
-##### Clone the repository:
+##### Option 1: Running the Executable JAR File
+
+If you don't want to manually compile the project, you can run the game directly from the tic-tac-toe-java.jar file.
+
+Download the JAR file: If you have the JAR file locally, you can simply run it using the following command:
+
+java -jar tic-tac-toe-java.jar
+
+##### Option 2: Running from Source Code
+###### 1. Clone the repository:
 git clone https://github.com/yashika1510/tic-tac-toe-java.git
+
 cd tic-tac-toe-java
 
-##### Compile the project:
+###### 2. Compile the project:
 javac -d out -sourcepath src src/com/tictactoe/ui/TicTacToeUI.java
 
-##### Run the game:
+###### 3. Run the game:
 java -cp out com.tictactoe.ui.TicTacToeUI
 
 ### 🏗️ Code Overview
