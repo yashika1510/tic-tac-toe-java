@@ -42,9 +42,9 @@ java -cp out com.tictactoe.ui.TicTacToeUI
 
 ### 🏗️ Code Overview
 
-TicTacToeGameLogic.java → Handles board state, win conditions, and turn switching.
-TicTacToeButtonListener.java → Listens for button clicks, updates UI, and interacts with game logic.
-TicTacToeUI.java → Manages UI rendering, resets, and game interactions.
+* TicTacToeGameLogic.java → Handles board state, win conditions, and turn switching.
+* TicTacToeButtonListener.java → Listens for button clicks, updates UI, and interacts with game logic.
+* TicTacToeUI.java → Manages UI rendering, resets, and game interactions.
 
 ### 📜 License
 
