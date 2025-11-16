@@ -34,7 +34,7 @@ public class TicTacToeButtonListener implements ActionListener {
         }
 
         if (gameLogic.isDraw()) {
-            ui.showEndGameMessage("It's a Tie!");
+            ui.showEndGameMessage("It's a TIE!");
             return;
         }
 
