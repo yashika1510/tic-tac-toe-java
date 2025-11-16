@@ -18,6 +18,9 @@ public class TicTacToeUI {
         initializeUI();
     }
 
+    /**
+     * This method is used for initializing UI
+     */
     private void initializeUI() {
         frame = new JFrame("TIC-TAC-TOE");
         frame.setSize(600, 600);
